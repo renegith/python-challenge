@@ -1,0 +1,7 @@
+Financial Analysis
+----------------------------
+Total months = 86
+Total P&L = $38,382,578.00
+Average change in P&L = ($2,315.12)
+Greatest increase in profits = Feb-2012 $1,926,159.00
+Greatest decrease in profits = Sep-2013 ($2,196,167.00)
